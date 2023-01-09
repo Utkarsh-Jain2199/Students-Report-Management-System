@@ -252,7 +252,7 @@ Exit From Program:
 ![image](https://user-images.githubusercontent.com/77992826/211373445-beb66fa4-12a1-44ad-900e-3e22df2ca75c.png)
 
 
-FUTURE SCOPE
+FUTURE SCOPE:-
 The project has a very vast scope in future. The
 Project can be updated in near future as and when
 requirement for the same arises, as it is very
